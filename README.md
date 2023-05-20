@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ViorelMocanu&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)
 
 ## 🏆 Public GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cosmin-panescu&theme=dark_dimmed&no-bg=true&margin-w=15&margin-h=15&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=ViorelMocanu&theme=dark_dimmed&no-bg=true&margin-w=15&margin-h=15&no-frame=true)
