@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I started out in Front End Development in the 1990's, when [Jeffrey Zeldman](https://www.zeldman.com/) (with [A List Apart](https://alistapart.com/)) and others were fighting to create and uphold Web Standards. We now live by them and it's a wonderful time to start working in the field, so I'm devoting part of my time to encourage you to do so.
 
-## Useful projects
+## ⭐ Useful projects
 
 If you'd like to explore some of my useful community projects, please note some of them are in 🇷🇴 Romanian but most of the complex ones are, or will be multi-lingual with versions in 🇬🇧 English as well. All ongoing and complex projects which allow for contributions have most of their Issues, PRs, Projects, Project Tasks, Documentation and Code in 🇬🇧 English.
 - ✅ **[LinkInBio](https://github.com/ViorelMocanu/LinkInBio)** - A very simple website / page containing a list of links similar to what LinkTree offers its users. Part of my [Live Coding tutorial sessions on YouTube](https://www.youtube.com/playlist?list=PLfTqvIG4roBruxIQy5nQWQAbJYO1Mhtbm) in 🇷🇴 Romanian. [Preview LinkInBio »](http://link-in-bio-umber.vercel.app/)
