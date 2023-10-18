@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 - 🔭 I’m currently working on a few projects including [Pentest-Tools.com](https://pentest-tools.com/) (on my alternative GitHub account [viorel-mocanu-ptt](https://github.com/viorel-mocanu-ptt)) and [my own YouTube channel](https://www.youtube.com/ViorelMocanu).
-- 🌱 I’m currently learning [Svelte](https://github.com/sveltejs/svelte) and [Astro](https://github.com/withastro/astro).
+- 🌱 I’m currently learning [Astro](https://github.com/withastro/astro) and [HTMX](https://github.com/bigskysoftware/htmx).
 - 👯 I’m looking to collaborate on creating easy to use starter projects for people beginning their journey in IT, front end, back end, devops, etc.
 - 🤔 I’m looking for help with editing my YouTube videos and QA for the projects I'm building pro bono.
 - 💬 Ask me about how to start a career in design or development.
