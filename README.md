@@ -24,6 +24,3 @@ If you'd like to explore some of my useful community projects, please note some 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ViorelMocanu&theme=transparent&show_icons=true&hide_border=true&locale=en&include_all_commits=true&count_private=true&layout=compact&bg_color=#0c2d6b)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViorelMocanu&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)<br />
 ![](https://github-readme-stats.vercel.app/api?username=ViorelMocanu&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)
-
-## 🏆 Public GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ViorelMocanu&theme=dark_dimmed&no-bg=true&margin-w=15&margin-h=15&no-frame=true)
