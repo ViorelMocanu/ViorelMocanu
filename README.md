@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 🔭 I’m currently _vibe coding_ a few private projects (including my own personal site relaunch), working at <emag.ro>, and reviving [my own YouTube channel](https://www.youtube.com/ViorelMocanu).
+- 🔭 I’m currently _vibe coding_ a few private projects (including my own personal site relaunch), working as an Advertising Director at [eMAG](https://www.emag.ro/), and reviving [my own YouTube channel](https://www.youtube.com/ViorelMocanu).
 - 🌱 I’m currently learning [Astro](https://github.com/withastro/astro) and [HTMX](https://github.com/bigskysoftware/htmx).
 - 👯 I’m looking to collaborate on creating easy to use starter projects for people beginning their journey in IT, front end, back end, devops, etc.
 - 🤔 I’m looking for help with editing my YouTube videos and QA for the projects I'm building pro bono.
